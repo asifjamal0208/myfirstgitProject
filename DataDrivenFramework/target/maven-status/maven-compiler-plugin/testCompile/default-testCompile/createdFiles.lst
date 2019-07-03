@@ -1,0 +1,8 @@
+com\mj\utilities\TestUtil.class
+com\mj\base\TestBase.class
+com\mj\rough\TestProperties.class
+com\mj\rough\TestTimeStamp.class
+com\mj\utilities\ExcelReader.class
+com\mj\testcases\BankManagerLoginTest.class
+com\mj\listeners\CustomListeners.class
+com\mj\testcases\AddCustomerTest.class
